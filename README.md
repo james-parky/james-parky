@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="social-badges">
+         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</div>
 
 <!--
 **james-parky/james-parky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
