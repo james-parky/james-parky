@@ -36,8 +36,6 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 James Parkington </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
 [Email Me](mailto:james.parkington.20@ucl.ac.uk)
  <a href="https://www.linkedin.com/in/james-parkington-a92238236/">
                   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
