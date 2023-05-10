@@ -36,7 +36,7 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 James Parkington </h1>  <a href="https://www.linkedin.com/in/james-parkington-a92238236/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a>
 
-<h2 style="color: #44AEFB"> [Email Me](mailto:james.parkington.20@ucl.ac.uk) </h2>
+<h2 style="color: #44AEFB;"> <a href=malto:james.parkington.20@ucl.ac.uk>📧</a></h2>
 
 </div>
 </p>    
