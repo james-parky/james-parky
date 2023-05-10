@@ -126,7 +126,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![James Parkington's GitHub Stats](https://github-readme-stats.vercel.app/api?username=james-parky&hide-stars=true&theme=algolia&border_radius=20) 
+![James Parkington's GitHub Stats](https://github-readme-stats.vercel.app/api?username=james-parky&hide=stars&theme=algolia&border_radius=20) 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=james-parky&theme=algolia&border_radius=20)
 
