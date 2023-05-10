@@ -35,11 +35,17 @@
 
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 James Parkington </h1> 
+
+<!-- Contact Information -->
 <h2 style="color: #44AEFB;"> 👆 Contact </h2>
 <a href="https://www.linkedin.com/in/james-parkington-a92238236/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a>
 </p>
 <a href=mailto:james.parkington.20@ucl.ac.uk>📧 james.parkington.20@ucl.ac.uk</a><br>
 
+<!-- Spoken Languages -->
+<h2 style="color: #44AEFB"> 🌍 Spoken Languages </h2>
+🇰🇷: 한국어를 공부하기 시작한 지는 4년도 거의 다 되었고 대학교 졸업해서 한국에 살기 때문에 요새 한국어능력시험을 준비하고 있습니다.
+🇯🇵: 日本語は三年間ぐらい勉強していませけれども、最近大学のせいで勉強する時間がありません。
 </div>
 </p>    
 <br>
