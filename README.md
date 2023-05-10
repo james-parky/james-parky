@@ -136,6 +136,6 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-parky&show_icons=true&theme=algolia&border_radius=20&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-parky&show_icons=true&theme=algolia&border_radius=20&hide=Jupyter_Notebook)
 </div>
 <!--  End Stats Cards -->
