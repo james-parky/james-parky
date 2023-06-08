@@ -34,7 +34,7 @@
 
 
 
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 James Parkington </h1> <a href="https://www.linkedin.com/in/james-parkington-a92238236/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> <a href=mailto:james.parkington.20@ucl.ac.uk>📧 james.parkington.20@ucl.ac.uk</a><br>
+<span><h1 style="color: #44AEFB;"> 👨🏻‍💻 James Parkington </h1> <a href="https://www.linkedin.com/in/james-parkington-a92238236/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> <a href=mailto:james.parkington.20@ucl.ac.uk>📧 james.parkington.20@ucl.ac.uk</a></span>
 </p>
 </div>
 </p>    
