@@ -39,7 +39,7 @@
 <!-- Contact Information -->
 <h2 style="color: #44AEFB;"> 👆 Contact </h2>
 <a href="https://www.linkedin.com/in/james-parkington-a92238236/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> 
-<a href=mailto:james.parkington.20@ucl.ac.uk>📧 Email</a><br>
+<a href=mailto:james.parkington.20@ucl.ac.uk><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a><br>
 </div>
 </p>    
 <br>
