@@ -1,6 +1,6 @@
 <!--
 <div id="social-badges">
-         <a href="https://www.linkedin.com/in/james-david-parkington/">
+         <a href="www.linkedin.com/in/james-david-parkington">
                   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
          </a>
          <img src="https://komarev.com/ghpvc/?username=james-parky"/>
